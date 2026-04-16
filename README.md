@@ -60,7 +60,7 @@ p006-iot-mentor/
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/your-username/p006-iot-mentor.git
+git clone https://github.com/ujjwal-tiwari3039/p006-iot-mentor.git
 cd p006-iot-mentor
 ```
 
